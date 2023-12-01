@@ -319,6 +319,7 @@ body {
 .prompt_global_vid {
   font-family: 'Cavolini';
   font-size: 22px;
+  margin-bottom: 20px;
   color: #00595A;
   text-align: center;
   font-style: italic;
